@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#imgs from teams and players (will be at firebase later)
+/src/Resources/images
+/public/images
