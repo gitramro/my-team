@@ -23,5 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 #imgs from teams and players (will be at firebase later)
-/src/Resources/images
-/public/images
+/src/Resources/images/players/player_to_upload/

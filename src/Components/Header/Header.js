@@ -28,10 +28,10 @@ export default class Header extends Component {
               height="70px"
             />
           </div>
-          <Link to="/the_team">
+          <Link to="/the-team">
             <Button color="inherit">The team</Button>
           </Link>
-          <Link to="the_matches">
+          <Link to="the-matches">
             <Button color="inherit">Matches</Button>
           </Link>
         </ToolBar>
